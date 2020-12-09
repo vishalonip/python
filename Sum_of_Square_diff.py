@@ -1,0 +1,5 @@
+n=int(input())
+# Sum_of_Sqr=int(n*(n + 1)*(2*n + 1)/6)
+# Sum=int(n*(n+1)/2)
+# print(Sum**2 - Sum_of_Sqr)
+print(n*(n+1)*n*(n+1)/4)-n*(n + 1)*(2*n + 1)/6)
